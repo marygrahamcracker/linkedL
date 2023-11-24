@@ -28,5 +28,5 @@ class soda ():
 
 mysoda = soda('sunkist')
 mysoda.calories = 0 
-mysoda.isdiet = True
-print(f'the soda im drinking is {mysoda.name}, it has {mysoda.calories} calories, and its {mysoda.isdiet} that its diet')
+mysoda.Isdiet = True
+print(f'the soda im drinking is {mysoda.name}, it has {mysoda.calories} calories, and its {mysoda.Isdiet} that its diet')
